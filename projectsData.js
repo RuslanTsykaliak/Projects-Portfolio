@@ -31,6 +31,14 @@ const projectsData = [
     githubLink: "https://github.com/RuslanTsykaliak/trello-next14"
   },
   {
+    projectName: "LeetCode Solutions Repository",
+    technologies: ["TypeScript", "JavaScript", "Python", "Java"],
+    description: "A comprehensive repository containing solutions to LeetCode problems, designed to enhance problem-solving skills in TypeScript, JavaScript, Python, and Java.",
+    websiteLink: null,
+    youtubeLink: "https://www.youtube.com/playlist?list=PLxNcomId_fMv00RZmyRR9iNJLOTsQ376_",
+    githubLink: "https://github.com/RuslanTsykaliak/LeetCode-TypeScript-JS-Python-Java"
+  },
+  {
     projectName: "Sanity.io Blog",
     technologies: ["Next.js", "React.js", "Sanity.io", "TypeScript", "TailwindCSS"],
     description: "A modern blog platform that uses Sanity.io for content management paired with Next.js and TailwindCSS for a clean design.",
@@ -78,13 +86,6 @@ const projectsData = [
     description: "A comprehensive to-do application featuring modern authentication and ORM techniques for efficient task management.",
     websiteLink: "https://ruslan-tsykaliak-todo.vercel.app/",
     githubLink: "https://github.com/RuslanTsykaliak/todo"
-  },
-  {
-    projectName: "Fast To-Do App",
-    technologies: ["Next.js", "TypeScript", "Prisma", "Radix UI", "Lucide-react", "React.js", "TailwindCSS"],
-    description: "A fast and efficient to-do application built with Next.js, utilizing Prisma and Radix UI, and deployed on Vercel.",
-    websiteLink: "https://fast-todo-mauve.vercel.app/",
-    githubLink: "https://github.com/RuslanTsykaliak/fast-todo"
   },
   {
     projectName: "Kirimase To-Do App",
