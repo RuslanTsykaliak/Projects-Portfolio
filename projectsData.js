@@ -4,7 +4,7 @@ const projectsData = [
     projectName: "React Next.js Portfolio",
     technologies: ["TypeScript", "Next.js", "TailwindCSS"],
     description: "A professional portfolio website built with Next.js and TailwindCSS that showcases projects and development skills in a modern design.",
-    websiteLink: "https://ruslantsykaliak.com/",
+    websiteLink: "https://ruslan-tsykaliak.vercel.app",
     githubLink: "https://github.com/RuslanTsykaliak/React-Next-Portfolio"
   },
   {
